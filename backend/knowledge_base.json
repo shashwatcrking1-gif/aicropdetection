@@ -1,0 +1,58 @@
+{
+  "maize_common_rust": {
+    "disease_name": "Common Rust", "causal_agent": "Puccinia sorghi (fungus)", "severity": "moderate",
+    "symptoms": ["Small reddish-brown raised spots on leaves", "Spots may appear on both leaf surfaces", "Leaves can yellow as infection grows"],
+    "organic_remedy": "Remove badly affected leaves and clear plant debris.",
+    "chemical_remedy": "Azoxystrobin + propiconazole or mancozeb; follow the local label dose.",
+    "prevention": ["Choose resistant varieties when available", "Rotate crops and remove volunteer maize", "Allow good airflow between plants"]
+  },
+  "maize_gray_leaf_spot": {
+    "disease_name": "Gray Leaf Spot", "causal_agent": "Cercospora zeae-maydis (fungus)", "severity": "moderate",
+    "symptoms": ["Long rectangular gray or tan leaf spots", "Spots follow the leaf veins", "Lower leaves are often affected first"],
+    "organic_remedy": "Remove infected crop residue and rotate away from maize.",
+    "chemical_remedy": "Pyraclostrobin, azoxystrobin, or propiconazole; follow the local label dose.",
+    "prevention": ["Rotate crops with non-host crops", "Bury or remove infected residue", "Avoid dense planting"]
+  },
+  "maize_healthy": {
+    "disease_name": "Healthy", "causal_agent": "None", "severity": "low",
+    "symptoms": ["Leaves show no clear disease spots", "Leaf color appears generally even"],
+    "organic_remedy": "Keep watering evenly and remove weeds around plants.",
+    "chemical_remedy": "None needed",
+    "prevention": ["Check leaves regularly", "Water near the soil", "Keep tools clean"]
+  },
+  "maize_northern_leaf_blight": {
+    "disease_name": "Northern Leaf Blight", "causal_agent": "Exserohilum turcicum (fungus)", "severity": "high",
+    "symptoms": ["Long cigar-shaped gray-green lesions", "Lesions grow longer and turn tan", "Several lesions may join across the leaf"],
+    "organic_remedy": "Remove infected crop residue and rotate crops after harvest.",
+    "chemical_remedy": "Azoxystrobin, propiconazole, or pyraclostrobin; follow the local label dose.",
+    "prevention": ["Plant resistant varieties when available", "Rotate away from maize", "Remove volunteer maize plants"]
+  },
+  "tomato_early_blight": {
+    "disease_name": "Early Blight", "causal_agent": "Alternaria solani (fungus)", "severity": "moderate",
+    "symptoms": ["Brown spots with ring-like marks", "Yellowing around spots", "Lower leaves affected first"],
+    "organic_remedy": "Remove infected lower leaves; improve airflow and avoid wetting leaves.",
+    "chemical_remedy": "Chlorothalonil, mancozeb, or azoxystrobin; follow the local label dose.",
+    "prevention": ["Rotate crops every season", "Water at the base, not on leaves", "Stake plants for airflow"]
+  },
+  "tomato_healthy": {
+    "disease_name": "Healthy", "causal_agent": "None", "severity": "low",
+    "symptoms": ["Leaves show no clear disease spots", "Leaf color appears generally even"],
+    "organic_remedy": "Keep watering evenly and remove weeds around plants.",
+    "chemical_remedy": "None needed",
+    "prevention": ["Check leaves regularly", "Water near the soil", "Keep tools clean"]
+  },
+  "tomato_late_blight": {
+    "disease_name": "Late Blight", "causal_agent": "Phytophthora infestans (oomycete)", "severity": "high",
+    "symptoms": ["Water-soaked dark patches on leaves", "Patches spread quickly in damp weather", "White growth may appear under leaf patches"],
+    "organic_remedy": "Remove affected leaves and dispose of infected plants away from the field.",
+    "chemical_remedy": "Mancozeb, cymoxanil + mancozeb, or metalaxyl-M + mancozeb; follow the local label dose.",
+    "prevention": ["Avoid overhead watering", "Give plants room for airflow", "Remove infected plant debris promptly"]
+  },
+  "tomato_septoria_leaf_spot": {
+    "disease_name": "Septoria Leaf Spot", "causal_agent": "Septoria lycopersici (fungus)", "severity": "moderate",
+    "symptoms": ["Small round spots with dark edges", "Spots may have pale centers with tiny dark dots", "Older lower leaves often yellow and drop"],
+    "organic_remedy": "Remove spotted lower leaves and avoid working with wet plants.",
+    "chemical_remedy": "Chlorothalonil or mancozeb; follow the local label dose.",
+    "prevention": ["Rotate crops each season", "Water at the soil level", "Clear plant debris after harvest"]
+  }
+}

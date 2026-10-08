@@ -1,0 +1,7 @@
+model/*.keras
+model/*.h5
+data/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.venv/

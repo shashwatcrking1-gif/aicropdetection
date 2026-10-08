@@ -1,0 +1,10 @@
+[
+  {"class_id":"maize_common_rust","crop":"maize","display_name":"Common Rust","dataset_folder":"Corn_(maize)___Common_rust_","is_healthy":false},
+  {"class_id":"maize_gray_leaf_spot","crop":"maize","display_name":"Gray Leaf Spot","dataset_folder":"Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot","is_healthy":false},
+  {"class_id":"maize_healthy","crop":"maize","display_name":"Healthy","dataset_folder":"Corn_(maize)___healthy","is_healthy":true},
+  {"class_id":"maize_northern_leaf_blight","crop":"maize","display_name":"Northern Leaf Blight","dataset_folder":"Corn_(maize)___Northern_Leaf_Blight","is_healthy":false},
+  {"class_id":"tomato_early_blight","crop":"tomato","display_name":"Early Blight","dataset_folder":"Tomato___Early_blight","is_healthy":false},
+  {"class_id":"tomato_healthy","crop":"tomato","display_name":"Healthy","dataset_folder":"Tomato___healthy","is_healthy":true},
+  {"class_id":"tomato_late_blight","crop":"tomato","display_name":"Late Blight","dataset_folder":"Tomato___Late_blight","is_healthy":false},
+  {"class_id":"tomato_septoria_leaf_spot","crop":"tomato","display_name":"Septoria Leaf Spot","dataset_folder":"Tomato___Septoria_leaf_spot","is_healthy":false}
+]
